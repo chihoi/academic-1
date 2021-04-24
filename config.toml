@@ -70,7 +70,7 @@ pygmentscodefencesguesssyntax = false
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 2
-    url = "https://twitter.com/zu_gary"
+    url = "https://twitter.com/chihoi"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
