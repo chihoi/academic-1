@@ -16,12 +16,12 @@ pygmentscodefencesguesssyntax = false
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Ziwen(Gary) Zu"
-    # description = "Ziwen Zu's personal website"
+    author = "chihoi"
+    # description = "chiho's personal website"
     # keywords = "political science,developer,personal"
-    info = "Ph.D. student in Political Science at UCSD"
+    info = "Ph.D. student"
     avatarurl = "images/avatar.jpeg"
-    #gravatar = "ziwenzu.com"
+    #gravatar = chihoi.com"
     #footercontent = "Let there be Light"
 
     dateformat = "January 2, 2006"
@@ -65,7 +65,7 @@ pygmentscodefencesguesssyntax = false
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/ziwenzu"
+    url = "https://github.com/chihoi"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
@@ -75,7 +75,7 @@ pygmentscodefencesguesssyntax = false
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 3
-    url = "https://www.linkedin.com/in/ziwen-zu-59a964104/"
+    url = "https://www.linkedin.com/in/chihoi"
 
 
 [languages]
